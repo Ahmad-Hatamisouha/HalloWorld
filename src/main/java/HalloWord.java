@@ -5,7 +5,9 @@ public class HalloWord {
 
         System.out.printf("Hallo Alex");
         System.out.printf("");
-        System.out.printf("Hallo Alex2");
+        System.out.printf("Hallo Susi");
+        System.out.printf("Hallo Macx");
+        System.out.printf("Hallo Susi");
 
     }
 }
