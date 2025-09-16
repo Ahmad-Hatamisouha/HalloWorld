@@ -3,7 +3,7 @@
 public class HalloWord {
     public static void main(String[] args) {
 
-        System.out.printf("Hallo Alex1");
+        System.out.printf("Hallo Alex");
 
     }
 }
